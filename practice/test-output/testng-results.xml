@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19303" started-at="2016-10-16T07:15:08Z" finished-at="2016-10-16T07:15:28Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19303" started-at="2016-10-16T07:15:08Z" finished-at="2016-10-16T07:15:28Z">
+      <class name="selenium.practice.SungevityHomePageTest">
+        <test-method status="PASS" signature="setupConfig()[pri:0, instance:selenium.practice.SungevityHomePageTest@23ceabc1]" name="setupConfig" is-config="true" duration-ms="14" started-at="2016-10-16T00:15:08Z" finished-at="2016-10-16T00:15:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupConfig -->
+        <test-method status="PASS" signature="launchApplication()[pri:0, instance:selenium.practice.SungevityHomePageTest@23ceabc1]" name="launchApplication" is-config="true" duration-ms="9386" started-at="2016-10-16T00:15:08Z" finished-at="2016-10-16T00:15:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method status="PASS" signature="testHomePageLogo()[pri:0, instance:selenium.practice.SungevityHomePageTest@23ceabc1]" name="testHomePageLogo" duration-ms="116" started-at="2016-10-16T00:15:18Z" finished-at="2016-10-16T00:15:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHomePageLogo -->
+        <test-method status="PASS" signature="closeApplication()[pri:0, instance:selenium.practice.SungevityHomePageTest@23ceabc1]" name="closeApplication" is-config="true" duration-ms="2134" started-at="2016-10-16T00:15:18Z" finished-at="2016-10-16T00:15:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+        <test-method status="PASS" signature="launchApplication()[pri:0, instance:selenium.practice.SungevityHomePageTest@23ceabc1]" name="launchApplication" is-config="true" duration-ms="7242" started-at="2016-10-16T00:15:20Z" finished-at="2016-10-16T00:15:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method status="PASS" signature="testHomePageTitle()[pri:0, instance:selenium.practice.SungevityHomePageTest@23ceabc1]" name="testHomePageTitle" duration-ms="37" started-at="2016-10-16T00:15:27Z" finished-at="2016-10-16T00:15:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHomePageTitle -->
+        <test-method status="PASS" signature="closeApplication()[pri:0, instance:selenium.practice.SungevityHomePageTest@23ceabc1]" name="closeApplication" is-config="true" duration-ms="351" started-at="2016-10-16T00:15:27Z" finished-at="2016-10-16T00:15:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- selenium.practice.SungevityHomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
